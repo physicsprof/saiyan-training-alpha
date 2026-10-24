@@ -1,6 +1,6 @@
 {
-  "build": "0.17.1-d95fe63f98b5",
-  "version": "0.17.1",
+  "build": "0.18.0-d229209b292b",
+  "version": "0.18.0",
   "assets": [
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -168,9 +168,9 @@
       "bytes": 61896
     },
     {
-      "url": "assets/index-BVeLfis9.js",
-      "sha256": "af20b06ed56391a52aeab27eb9698bc607df96171a44a262eae14d262ef6779c",
-      "bytes": 963759
+      "url": "assets/index-BnEPe_mm.js",
+      "sha256": "765f7ab6e7fb1f0f2e2c3df4669f8a32329990a955898f23dcfbc3edd97a9067",
+      "bytes": 1043764
     },
     {
       "url": "assets/index-DTv8--NL.css",
@@ -214,7 +214,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "2b43512417769813a639cf90dfa1d2163f37650b88318216c8d0df161b3ee48f",
+      "sha256": "184fe1194c63c451db2f12649760287a535b965056f0935a5ad5edd63f4afa6a",
       "bytes": 948
     },
     {
@@ -223,5 +223,5 @@
       "bytes": 661
     }
   ],
-  "bytes": 5300685
+  "bytes": 5380690
 }
