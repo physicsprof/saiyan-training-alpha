@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Saiyan Training",
+  "short_name": "Saiyan Training",
+  "description": "Your Emperor Pilaf fitness adventure. Log training, grow stronger and follow your story offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15243d",
+  "theme_color": "#15243d",
+  "lang": "en-GB",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

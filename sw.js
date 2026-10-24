@@ -1,0 +1,90 @@
+/* Produced by offline-build.mjs. The source is also tested in an isolated worker harness. */
+const CONFIG = {"build":"0.17.0-ced1167d9288","version":"0.17.0","assets":[{"url":"artwork/pilaf/DBA01.webp","sha256":"fb8014eab5734b27ad1268f7ca8fd038335ac7c62a1bcd70a03c0acef9fe0a3c","bytes":67886},{"url":"artwork/pilaf/DBA02.webp","sha256":"0501eda3646f2b59e5c774e4f3025a53c540a6246af47d86b668860bddfc84a3","bytes":60368},{"url":"artwork/pilaf/DBA03.webp","sha256":"184f549b9eef9e547ed7b2e26072a588afdb56b81a6e3f710716eea5e9436181","bytes":55030},{"url":"artwork/pilaf/DBI02.webp","sha256":"3370289cd093dc1137c7d201cfbc34feca90e4094348e8c5a8818e8d08b7d29b","bytes":27558},{"url":"artwork/pilaf/DBI36.webp","sha256":"937f02bd8abe28909984df7869359d68b99026a08274024dd85b7c0bbd4c059f","bytes":76450},{"url":"artwork/pilaf/DBI37.webp","sha256":"fdbc918669765d057c8a8cc5086d0ccbcca4772b3254bd5a48f5e02f93f5c523","bytes":54788},{"url":"artwork/pilaf/bulma.webp","sha256":"b002966cf5d739126978a9b4f8921f19d1f678ac7fa20e522a5694655f51ed77","bytes":46952},{"url":"artwork/pilaf/castle-exterior.webp","sha256":"e9cb1c0143aaa19008d41017c1659774081ecb8ac6eee3328c7323d9bfc86dfe","bytes":270044},{"url":"artwork/pilaf/castle-interior.webp","sha256":"ec9861d283889f211e3ef7c10486e253d1a5bd83c2517fda382f27e7fc805cc3","bytes":162984},{"url":"artwork/pilaf/desert.webp","sha256":"b01d460163c08ff7bfa86af89cfcb58c5a2002c7e0d9d60fb243adf33d69b4c7","bytes":241908},{"url":"artwork/pilaf/earth-ball-1.webp","sha256":"245aec3a1acfc01468dd4d1315ca02ace417a7f86be25cfe42e8feb568d1a172","bytes":120290},{"url":"artwork/pilaf/earth-ball-2.webp","sha256":"7997d0a0ff5b70256a5464279a5b046af926d51cc03987f06bc950b349afb3c6","bytes":120678},{"url":"artwork/pilaf/earth-ball-3.webp","sha256":"9f86f19512572d2e110f95c9f9d2f2b0d7f365e4cbf3b1cbcbfb848da981f31d","bytes":117608},{"url":"artwork/pilaf/earth-ball-4.webp","sha256":"8dc86712cce872df725c42e546c5601ba1355ecde7e366305d83b6c76f36beda","bytes":113456},{"url":"artwork/pilaf/earth-ball-5.webp","sha256":"a88ce3cebd0f874313de4cd5da2cd4d8a8ab68b4745e0d29d5eb46bc926e685f","bytes":118874},{"url":"artwork/pilaf/earth-ball-6.webp","sha256":"b2e2d73f5c38a9a7aa1cb11e2bca2965bdcc527368e98ec3c37b430ed2e7cbae","bytes":120398},{"url":"artwork/pilaf/earth-ball-7.webp","sha256":"aee427132a90884b07ff6bba4e3194c2d06bde5571cb45ed0451e4fedf69dbc1","bytes":119974},{"url":"artwork/pilaf/fire-mountain.webp","sha256":"a2f1b89437e9b17a32dc8ec02293b0ae76855da06091da431b7f655c85abc07a","bytes":226018},{"url":"artwork/pilaf/gohan-house.webp","sha256":"f2fd8ebbd36cf1fd6505e39764c619f8e2e4d62269fa77d1bd40b97b7ad2159e","bytes":343530},{"url":"artwork/pilaf/goku.webp","sha256":"72b67fce369ff7cfc3a4fdcf9138bc32eb253ddedfb85bb078fe0b17c6604fb5","bytes":62980},{"url":"artwork/pilaf/great-ape.webp","sha256":"92649d41097735321dcf0c701f3a93fb05bbf8d80ddddc71da821a99c403c350","bytes":84668},{"url":"artwork/pilaf/mai.webp","sha256":"a67dd8d54deaa364c2204fa22bf1df3d6bc057657740c9e708eb2693137b350b","bytes":103240},{"url":"artwork/pilaf/monster-carrot.webp","sha256":"4f92be2e680e1b4842fde11b54f72845bf894478d30a0f6e1cb53a12cac71a1b","bytes":70356},{"url":"artwork/pilaf/oolong.webp","sha256":"17905c1d1eff0654e753e368e35abe35ce15b6a03cde66871144a4e8953867cf","bytes":54754},{"url":"artwork/pilaf/ox-king.webp","sha256":"0fe40a8c4168d131b6aae137f34a3f99d1a671b1bdfac4d0091312d7ede5cc21","bytes":48444},{"url":"artwork/pilaf/player-brother.webp","sha256":"e2cc09d50ac36245599cc29651147d8a4952bde46b01d10409ca38c6a9eb46e5","bytes":62934},{"url":"artwork/pilaf/player-sister.webp","sha256":"072aa2529017e1d6cbbecf29afa3f2798670bbd0b10e86e2a343a2225328397c","bytes":75084},{"url":"artwork/pilaf/puar.webp","sha256":"c1295d1b948a5faf3a34b80beb2de4b18e11dfde003d1f4a1c9e00cc2b20d9a0","bytes":60564},{"url":"artwork/pilaf/roshi.webp","sha256":"1ce5a4aebca3160368192390af99444b2aa52e6e919eb8abb2f5a427eec9ec8b","bytes":75988},{"url":"artwork/pilaf/shenron.webp","sha256":"d6ed17631a652c0caac27f86e5ee0316ff597257209951fe085cbeefd4c5b309","bytes":46694},{"url":"artwork/pilaf/shu.webp","sha256":"f593121ce0048d1ac6033850abda044aa726036652cdc018af7e91f13bca795e","bytes":33234},{"url":"artwork/pilaf/turtle.webp","sha256":"39241e493736fdd737174c0e783c41ca44f140ce27c2929a0f35e7d20bd64b3b","bytes":33846},{"url":"artwork/pilaf/yamcha.webp","sha256":"97e5fc3a3ca2ef23cca1e938d721ae97f9516f59a4339d5180aaa5e787d28ec2","bytes":61896},{"url":"assets/index-Bx2vSz5e.css","sha256":"8e7f87e64fbb5b02291881c271eff6c75fa1792c745a9158300543e31eb4eb7c","bytes":80052},{"url":"assets/index-DfXvnilI.js","sha256":"494826e3966206d365b1f9ff8e61a1224c454047b33c5f6c18f158bf3562facc","bytes":963818},{"url":"icons/icon-192.png","sha256":"eec20553cd853c343268977c2bb39b13d822686e65bea3fe1e2a5b18a1d01859","bytes":6870},{"url":"icons/icon-512.png","sha256":"d8e86a0d50725057f8cfb6e114e4002a32a9ebe893c136546d9bde22ba194dd0","bytes":23444},{"url":"icons/icon.svg","sha256":"13459e2865b0ce12fb133e5bb1abf29b1c824a8e36476e24d0d081e744d8b153","bytes":572},{"url":"index.html","sha256":"47cc5a1b5a2cd667c68bd6890b56b104143ca987f29d0cceaffbcd36233fd7da","bytes":849},{"url":"manifest.webmanifest","sha256":"a793c18435c1d3ae828c05fb35e2b91119658df3f942be6f0cfc0fb75252e3fc","bytes":543}],"bytes":4415624};
+const SCOPE = self.registration.scope;
+const PREFIX = `saiyan-offline-${new URL(SCOPE).pathname}-`;
+const CACHE = PREFIX + CONFIG.build;
+const META = new URL('__offline_complete__', SCOPE).href;
+const absolute = path => new URL(path, SCOPE).href;
+const manifest = new Map(CONFIG.assets.map(asset => [absolute(asset.url), asset]));
+const hex = buffer => [...new Uint8Array(buffer)].map(b => b.toString(16).padStart(2, '0')).join('');
+
+async function verifiedResponse(asset) {
+  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),20000);
+  try {
+    const response = await fetch(absolute(asset.url), {cache:'no-store', credentials:'same-origin',signal:controller.signal});
+    if (!response.ok || response.type === 'opaque' || response.redirected) throw Error(`Download failed: ${asset.url}`);
+    const bytes = await response.clone().arrayBuffer();
+    if (bytes.byteLength !== asset.bytes || hex(await crypto.subtle.digest('SHA-256', bytes)) !== asset.sha256) throw Error(`Incomplete or changed file: ${asset.url}`);
+    return response;
+  } finally {clearTimeout(timeout);}
+}
+async function prepare() {
+  const cache = await caches.open(CACHE);
+  // Every install is checked in full, even following an interrupted attempt.
+  await cache.delete(META);
+  for (let i=0;i<CONFIG.assets.length;i+=6) {
+    await Promise.all(CONFIG.assets.slice(i,i+6).map(async asset => cache.put(absolute(asset.url), await verifiedResponse(asset))));
+  }
+  await cache.put(META, new Response(JSON.stringify({build:CONFIG.build,version:CONFIG.version}), {headers:{'Content-Type':'application/json'}}));
+}
+async function readiness() {
+  const cache = await caches.open(CACHE);
+  if (!await cache.match(META)) return false;
+  for (const asset of CONFIG.assets) {
+    const response=await cache.match(absolute(asset.url));
+    if(!response)return false;
+    const bytes=await response.arrayBuffer();
+    if(bytes.byteLength!==asset.bytes||hex(await crypto.subtle.digest('SHA-256',bytes))!==asset.sha256)return false;
+  }
+  return true;
+}
+self.addEventListener('install', event => event.waitUntil(prepare()));
+self.addEventListener('activate', event => event.waitUntil((async()=>{
+  // First installation claims its page; subsequent activation requires explicit approval below.
+  await self.clients.claim();
+  // Preserve the previous complete build for in-flight fingerprinted resources.
+  const old=(await caches.keys()).filter(name=>name.startsWith(PREFIX)&&name!==CACHE);
+  let previous=null;
+  for(const name of old)if(await(await caches.open(name)).match(META))previous=name;
+  for(const name of old)if(name!==previous)await caches.delete(name);
+})()));
+self.addEventListener('message', event => {
+  const port=event.ports[0];
+  if(!port)return;
+  event.waitUntil((async()=>{
+    try {
+      if(event.data?.type==='STATUS') {
+        port.postMessage({ok:true,ready:await readiness(),build:CONFIG.build,version:CONFIG.version,bytes:CONFIG.bytes,files:CONFIG.assets.length});
+      } else if(event.data?.type==='REPAIR') {
+        await prepare();port.postMessage({ok:true});
+      } else if(event.data?.type==='ACTIVATE') {
+        if(!event.source?.id)throw Error('Open the game to apply this update.');
+        const clients=(await self.clients.matchAll({type:'window',includeUncontrolled:true})).filter(client=>client.url.startsWith(SCOPE));
+        if(clients.some(client=>client.id!==event.source.id))throw Error('Close other game windows, then apply the update again.');
+        if(!await readiness())throw Error('The update is incomplete. Check for updates again while online.');
+        port.postMessage({ok:true,build:CONFIG.build});
+        await self.skipWaiting();
+      } else throw Error('Unknown offline request.');
+    } catch(error) {port.postMessage({ok:false,error:error.message});}
+  })());
+});
+self.addEventListener('fetch', event => {
+  const request=event.request,url=new URL(request.url);
+  if(request.method!=='GET'||url.origin!==new URL(SCOPE).origin||!url.href.startsWith(SCOPE))return;
+  const path=url.href.slice(SCOPE.length).split('?')[0];
+  if(path==='sw.js'||path==='offline-build.json')return;
+  // Only the app's own entry URL gets the app shell. Unknown files must not become HTML.
+  const navigation=request.mode==='navigate'&&(path===''||path==='index.html');
+  const key=navigation?absolute('index.html'):new URL(url.pathname,url.origin).href;
+  event.respondWith((async()=>{
+    const cache=await caches.open(CACHE),hit=await cache.match(key);
+    if(hit)return hit;
+    // Old fingerprinted resources may still be in use immediately after a handover.
+    if(!manifest.has(key)&&path.startsWith('assets/')) {
+      for(const name of await caches.keys())if(name.startsWith(PREFIX)) {const old=await(await caches.open(name)).match(key);if(old)return old;}
+    }
+    const asset=manifest.get(key);
+    if(asset) {const response=await verifiedResponse(asset);await cache.put(key,response.clone());return response;}
+    return fetch(request);
+  })());
+});
