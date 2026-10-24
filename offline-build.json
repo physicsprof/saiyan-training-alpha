@@ -1,6 +1,6 @@
 {
-  "build": "0.17.0-ced1167d9288",
-  "version": "0.17.0",
+  "build": "0.17.1-d95fe63f98b5",
+  "version": "0.17.1",
   "assets": [
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -168,14 +168,34 @@
       "bytes": 61896
     },
     {
-      "url": "assets/index-Bx2vSz5e.css",
-      "sha256": "8e7f87e64fbb5b02291881c271eff6c75fa1792c745a9158300543e31eb4eb7c",
-      "bytes": 80052
+      "url": "assets/index-BVeLfis9.js",
+      "sha256": "af20b06ed56391a52aeab27eb9698bc607df96171a44a262eae14d262ef6779c",
+      "bytes": 963759
     },
     {
-      "url": "assets/index-DfXvnilI.js",
-      "sha256": "494826e3966206d365b1f9ff8e61a1224c454047b33c5f6c18f158bf3562facc",
-      "bytes": 963818
+      "url": "assets/index-DTv8--NL.css",
+      "sha256": "62c2708c19fa9e95584215be886df876b49c1b6c609e0910374338ab7cad85cb",
+      "bytes": 80137
+    },
+    {
+      "url": "icons/ascension-v1-180.png",
+      "sha256": "554e1e441a828de8e42c484ea8cc3e3001347ddff2faba621d6bd19faadaba4d",
+      "bytes": 89015
+    },
+    {
+      "url": "icons/ascension-v1-192.png",
+      "sha256": "8e80b789df540c78f8478ee8dd4773362ad32754b14dd6bb8e8249f524ccb677",
+      "bytes": 101017
+    },
+    {
+      "url": "icons/ascension-v1-32.png",
+      "sha256": "b4f7175cd85d5597793ec4b572582871afaf9e3d620d51ab979efcc70b6465a6",
+      "bytes": 3140
+    },
+    {
+      "url": "icons/ascension-v1-512.png",
+      "sha256": "79772b946cfcfa2b1c85b7290c835ed4b1adce1f2b23a357ea8759843c737d3c",
+      "bytes": 691646
     },
     {
       "url": "icons/icon-192.png",
@@ -194,14 +214,14 @@
     },
     {
       "url": "index.html",
-      "sha256": "47cc5a1b5a2cd667c68bd6890b56b104143ca987f29d0cceaffbcd36233fd7da",
-      "bytes": 849
+      "sha256": "2b43512417769813a639cf90dfa1d2163f37650b88318216c8d0df161b3ee48f",
+      "bytes": 948
     },
     {
       "url": "manifest.webmanifest",
-      "sha256": "a793c18435c1d3ae828c05fb35e2b91119658df3f942be6f0cfc0fb75252e3fc",
-      "bytes": 543
+      "sha256": "0910caada497622b4790ad0e6b00a4da8385335c8e04c85eb7d427888b5b7467",
+      "bytes": 661
     }
   ],
-  "bytes": 4415624
+  "bytes": 5300685
 }
