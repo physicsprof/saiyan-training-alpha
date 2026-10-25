@@ -1,6 +1,6 @@
 {
-  "build": "0.22.0-5883753f1764",
-  "version": "0.22.0",
+  "build": "0.23.0-d5e7e0906bc2",
+  "version": "0.23.0",
   "assets": [
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -168,14 +168,14 @@
       "bytes": 61896
     },
     {
-      "url": "assets/index-Co9raL5X.css",
-      "sha256": "f3e6cbdb73b4485be16c8dc14b081d91f0014958f86eb0503c67e1e2bbf9bb3b",
-      "bytes": 84565
+      "url": "assets/index-BaLhcxdD.js",
+      "sha256": "904d31e181637d9b468d9d31289aa62a1914f1e4721e0da2965193b560598618",
+      "bytes": 1704031
     },
     {
-      "url": "assets/index-F7DKxWK1.js",
-      "sha256": "6cd7b4ad9796ac3282ccd762eb2af1ceaa4dc8011010e0ddc523435e0ca72d0e",
-      "bytes": 1691279
+      "url": "assets/index-WNq2PzO6.css",
+      "sha256": "3cd864bef4f6286b94daa20bf11be2979998848571d9dc50a083488bef673be9",
+      "bytes": 90390
     },
     {
       "url": "assets/saveValidation.worker-FjcdyBKZ.js",
@@ -219,7 +219,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "44c0b0f76744ab1a8788da2a267c29df828b1804a3a2b492ab35c908160099b9",
+      "sha256": "6d6c5b13d8f64d4b9c1ff0b46b43e0dbe5e8df186e67f9b1dd24eb53fca71e7d",
       "bytes": 948
     },
     {
@@ -228,5 +228,5 @@
       "bytes": 661
     }
   ],
-  "bytes": 6804501
+  "bytes": 6823078
 }
