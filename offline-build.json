@@ -1,6 +1,6 @@
 {
-  "build": "0.21.0-5545d6353727",
-  "version": "0.21.0",
+  "build": "0.22.0-5883753f1764",
+  "version": "0.22.0",
   "assets": [
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -173,14 +173,14 @@
       "bytes": 84565
     },
     {
-      "url": "assets/index-F-YHP1md.js",
-      "sha256": "196b842e9f119657c08b18e9f645c494e578f141a8dd05bbb40ade7a14efd72a",
-      "bytes": 1300906
+      "url": "assets/index-F7DKxWK1.js",
+      "sha256": "6cd7b4ad9796ac3282ccd762eb2af1ceaa4dc8011010e0ddc523435e0ca72d0e",
+      "bytes": 1691279
     },
     {
-      "url": "assets/saveValidation.worker-CQy7m_c2.js",
-      "sha256": "2f598c9004cd53f746444816da9257f086c8b60b5ae3856f6ec6fc2209dbe031",
-      "bytes": 385209
+      "url": "assets/saveValidation.worker-FjcdyBKZ.js",
+      "sha256": "2e082768b4725026cabeb3bba904327371a32e4f7f612db41b1d960b4c953647",
+      "bytes": 771868
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -219,7 +219,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "bf93971b30d360f90e451ea10884a714717af0161e69e4a0ef8ec083d20d58f6",
+      "sha256": "44c0b0f76744ab1a8788da2a267c29df828b1804a3a2b492ab35c908160099b9",
       "bytes": 948
     },
     {
@@ -228,5 +228,5 @@
       "bytes": 661
     }
   ],
-  "bytes": 6027469
+  "bytes": 6804501
 }
