@@ -1,5 +1,5 @@
 {
-  "build": "0.20.0-431214ee64ea",
+  "build": "0.20.0-02c210e01f77",
   "version": "0.20.0",
   "assets": [
     {
@@ -168,14 +168,14 @@
       "bytes": 61896
     },
     {
-      "url": "assets/index-BIhc5BS3.js",
-      "sha256": "bd290c14f52ba27b8badee8efe9e6999f7f6327ecf658d9508e80b0e62395efb",
-      "bytes": 1242574
-    },
-    {
       "url": "assets/index-Bj6NQjXp.css",
       "sha256": "921707787abf973fdae809eebf4893e204f04c2bdb94b1c074557608fd067334",
       "bytes": 82934
+    },
+    {
+      "url": "assets/index-IQ0K_bsj.js",
+      "sha256": "33aedde578d7d1971bb4aa12fc4d6130ef8df2478b7ad13fb62d1c5e23443a11",
+      "bytes": 1242639
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -214,7 +214,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "148f18aeaef63930b746eacdb88ca5528de4b83e47e099f7529a3ab8698d9086",
+      "sha256": "cd35e1bd7c903e242fa662e747c9135ebb9ef1f37fe02e693aec94f561c1b89b",
       "bytes": 948
     },
     {
@@ -223,5 +223,5 @@
       "bytes": 661
     }
   ],
-  "bytes": 5582297
+  "bytes": 5582362
 }
