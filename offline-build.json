@@ -1,6 +1,6 @@
 {
-  "build": "0.23.0-d5e7e0906bc2",
-  "version": "0.23.0",
+  "build": "0.24.0-2a94b0da7cff",
+  "version": "0.24.0",
   "assets": [
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -168,9 +168,39 @@
       "bytes": 61896
     },
     {
-      "url": "assets/index-BaLhcxdD.js",
-      "sha256": "904d31e181637d9b468d9d31289aa62a1914f1e4721e0da2965193b560598618",
-      "bytes": 1704031
+      "url": "artwork/tournament/S2A01.webp",
+      "sha256": "eca74ca95631692c730dff4ad44137ee8d2faa750201a7517489e11fbe206ebb",
+      "bytes": 43110
+    },
+    {
+      "url": "artwork/tournament/S2E01.webp",
+      "sha256": "68c95e0f16f637eb1e37bae4239cefa9b13f62fe66f27c536857e45e1fbbf66f",
+      "bytes": 29670
+    },
+    {
+      "url": "artwork/tournament/S2I01.webp",
+      "sha256": "97355ece04ed0eec406d3611d408a93d31265476fe70e30832c87a1327626780",
+      "bytes": 38468
+    },
+    {
+      "url": "artwork/tournament/krillin.webp",
+      "sha256": "ce2714e9d3cdbbec908ff6b9860d4f804adbe025a178f9b3dc62baf572a0bf47",
+      "bytes": 15930
+    },
+    {
+      "url": "artwork/tournament/tournament-arena.webp",
+      "sha256": "fcec3bdace4e7da125e4b393c26d057eee37402ea7e8afe096426a34246f738e",
+      "bytes": 181484
+    },
+    {
+      "url": "artwork/tournament/tournament-island.webp",
+      "sha256": "d42366b848ab6f1439ea68af2310cca309669d9aaaf7cbe6a56d01d1d3abae99",
+      "bytes": 162996
+    },
+    {
+      "url": "assets/index-D98cbqX0.js",
+      "sha256": "2813b146237691c6314e49c0577b12fba4a2146fc79feeed8fc79bd8c9755b40",
+      "bytes": 2118189
     },
     {
       "url": "assets/index-WNq2PzO6.css",
@@ -178,9 +208,9 @@
       "bytes": 90390
     },
     {
-      "url": "assets/saveValidation.worker-FjcdyBKZ.js",
-      "sha256": "2e082768b4725026cabeb3bba904327371a32e4f7f612db41b1d960b4c953647",
-      "bytes": 771868
+      "url": "assets/saveValidation.worker-DyOnw_wQ.js",
+      "sha256": "0e22afc00903c1e0a2320a55c002054ea911c35fc6aa8e9f2cce038c69822d68",
+      "bytes": 1182206
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -219,8 +249,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "6d6c5b13d8f64d4b9c1ff0b46b43e0dbe5e8df186e67f9b1dd24eb53fca71e7d",
-      "bytes": 948
+      "sha256": "bcf8438ff750da8d65fa06f78ab9cdaee89993ce4390a030c86d58c38f327884",
+      "bytes": 957
     },
     {
       "url": "manifest.webmanifest",
@@ -228,5 +258,5 @@
       "bytes": 661
     }
   ],
-  "bytes": 6823078
+  "bytes": 8119241
 }
