@@ -1,7 +1,152 @@
 {
-  "build": "0.24.0-2a94b0da7cff",
-  "version": "0.24.0",
+  "build": "0.26.0-e9988abd18b7",
+  "version": "0.26.0",
   "assets": [
+    {
+      "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
+      "sha256": "46b7ac2761698b42da20c22a7b3187110c151a1be419efff8f5f61c8dcb9edb7",
+      "bytes": 23456
+    },
+    {
+      "url": "artwork/campaign/DBA_FLIGHT.webp",
+      "sha256": "f235e78eee762666f6b74c42b8466ff14d88bacfb73b3a4f5de9d43524898755",
+      "bytes": 8126
+    },
+    {
+      "url": "artwork/campaign/DBA_MAFUBA.webp",
+      "sha256": "530c82b1795866b30e027261bd53d0c528211e420fda8140957075ca5336a104",
+      "bytes": 71654
+    },
+    {
+      "url": "artwork/campaign/DBA_SUPER_KAME.webp",
+      "sha256": "f91c1e70a4c7d757d25d83a6dd900401faf1564837c4305fcc75873be74ed098",
+      "bytes": 79594
+    },
+    {
+      "url": "artwork/campaign/DBE_BLINDFOLD.webp",
+      "sha256": "32420b5d1a1050fc651aaa53e909623257a7a9765b4cbdc8a50d1100f68f68e9",
+      "bytes": 47440
+    },
+    {
+      "url": "artwork/campaign/DBI_CAPSULE.webp",
+      "sha256": "44f7397986d85ad92c55a7d7b363ae16d934a8aeefa0fca6bda21bbf933a194b",
+      "bytes": 77992
+    },
+    {
+      "url": "artwork/campaign/DBI_CRYSTAL.webp",
+      "sha256": "eb67538307b1781422bd6b5d120525057d967e79c30ab9cfd43ab7c07b422ce5",
+      "bytes": 64070
+    },
+    {
+      "url": "artwork/campaign/DBI_DIVINE_WATER.webp",
+      "sha256": "06b401a8601f01b41ddba3318c2daf2a22d18e840a3059a9024c4e2f7a0d4274",
+      "bytes": 48618
+    },
+    {
+      "url": "artwork/campaign/DBI_SACRED_WATER.webp",
+      "sha256": "06b401a8601f01b41ddba3318c2daf2a22d18e840a3059a9024c4e2f7a0d4274",
+      "bytes": 48618
+    },
+    {
+      "url": "artwork/campaign/adult-goku.webp",
+      "sha256": "2d1ff73b566f08d71de261f39cea5b8c21caa41da5c2d5b1e904acddcba88794",
+      "bytes": 12380
+    },
+    {
+      "url": "artwork/campaign/baba-palace.webp",
+      "sha256": "64efd634877dfe6b5704c8e8e711e2e115b0b7cf2e428bcf8e329df862db6fc3",
+      "bytes": 250334
+    },
+    {
+      "url": "artwork/campaign/chiaotzu.webp",
+      "sha256": "ccafd898c3c6be9b878f0fca16135be8ae44d20a233ced7c23ea6280f92bac98",
+      "bytes": 13182
+    },
+    {
+      "url": "artwork/campaign/grandpa_gohan.webp",
+      "sha256": "64fd312195652b3341a5f8d72cdd155c358a969c61b3f49d99db1428d29fad4d",
+      "bytes": 48340
+    },
+    {
+      "url": "artwork/campaign/kami-lookout.webp",
+      "sha256": "fd198178fef14d0076e7f554e12f32136a4e24ecb301dec03d9ab98c549b2af8",
+      "bytes": 142298
+    },
+    {
+      "url": "artwork/campaign/kami.webp",
+      "sha256": "25ef1e7f1040deab28d4fd3faa86defcace5e5faf7bdce7d5adbe014d8dcaac7",
+      "bytes": 47956
+    },
+    {
+      "url": "artwork/campaign/king-piccolo-city.webp",
+      "sha256": "c271e04402714f53eb5d5928e0962ad780a238457751ff351b2e40a6133ec460",
+      "bytes": 252736
+    },
+    {
+      "url": "artwork/campaign/korin-tower.webp",
+      "sha256": "f6560011e25395ffcc473c490cf8393abe24f23d38b159c9bdf74bfc1007425b",
+      "bytes": 243866
+    },
+    {
+      "url": "artwork/campaign/korin.webp",
+      "sha256": "2649aa2beae6863f38d0b5ec2b4354dc929adb277efca7217d4a6c30ec93911c",
+      "bytes": 44612
+    },
+    {
+      "url": "artwork/campaign/mr_popo.webp",
+      "sha256": "351cf65feec7e8de9ca01d1d564929fc55c6cc39c54ac9e1c19039d054062dfe",
+      "bytes": 38136
+    },
+    {
+      "url": "artwork/campaign/piccolo-jr.webp",
+      "sha256": "081c280a87c03d30437e731482dcd66df10705e13ba0cffdd7aeea0058f38ab8",
+      "bytes": 14466
+    },
+    {
+      "url": "artwork/campaign/piccolo.webp",
+      "sha256": "ed26332031ad6a31e3567b6d472a2dad9e4eb295c675e60d022828c311c64cc8",
+      "bytes": 16446
+    },
+    {
+      "url": "artwork/campaign/pirate-cave.webp",
+      "sha256": "6e9046d1b6e036f015723ec42581b72156e58ad70835f55e5ecab0fe8b1f45ae",
+      "bytes": 278748
+    },
+    {
+      "url": "artwork/campaign/rr-snow.webp",
+      "sha256": "6183f4f2ca3949ad4b341f351df54072306a161cf4200f941818df1b2115df01",
+      "bytes": 220598
+    },
+    {
+      "url": "artwork/campaign/teen-goku.webp",
+      "sha256": "29052a5f1cb965298ea945399bc23198430a1cfe9f1211f66fd4b2daeefcbff9",
+      "bytes": 33122
+    },
+    {
+      "url": "artwork/campaign/tien.webp",
+      "sha256": "a244c990ba09100aba9978c1a00f1c0a25d1493ebba723af1ba65f8b30d2e289",
+      "bytes": 12928
+    },
+    {
+      "url": "artwork/campaign/tournament-22.webp",
+      "sha256": "5c191d0a045e43005b4a213d5809eb2cffdbc2292392b280d159495081ff8300",
+      "bytes": 209964
+    },
+    {
+      "url": "artwork/campaign/tournament-23.webp",
+      "sha256": "5c191d0a045e43005b4a213d5809eb2cffdbc2292392b280d159495081ff8300",
+      "bytes": 209964
+    },
+    {
+      "url": "artwork/campaign/wedding-castle.webp",
+      "sha256": "47f1a41f14b4f448955988ba15f140b1259321e494267313834f8c7e46ef5a96",
+      "bytes": 296088
+    },
+    {
+      "url": "artwork/campaign/yajirobe.webp",
+      "sha256": "3f83d774a82d96244433b23701820e0d57d5f0be1c8ca138d27252c43f131f27",
+      "bytes": 40430
+    },
     {
       "url": "artwork/pilaf/DBA01.webp",
       "sha256": "fb8014eab5734b27ad1268f7ca8fd038335ac7c62a1bcd70a03c0acef9fe0a3c",
@@ -168,6 +313,51 @@
       "bytes": 61896
     },
     {
+      "url": "artwork/player/chiaotzu-v2.webp",
+      "sha256": "fca456954f900c88c9f62e71836acdc52b5cd12354a26b3725739c3a2d79de6c",
+      "bytes": 54104
+    },
+    {
+      "url": "artwork/player/piccolo-jr-v2.webp",
+      "sha256": "2fd1f43a6d0fd81734abfd0ed889aafaa3db7628eea1d0a71a5565e27759f3ad",
+      "bytes": 49264
+    },
+    {
+      "url": "artwork/player/player-brother-adult.webp",
+      "sha256": "30c4a12111d875af2b19904567de426839f25221955ce92323af1ee1fbe4f39d",
+      "bytes": 58342
+    },
+    {
+      "url": "artwork/player/player-brother-child-tailless.webp",
+      "sha256": "6f254b644351d45b47b677a0a767b6780a1fabeb296e084e7f7c9b91bfb7e287",
+      "bytes": 56280
+    },
+    {
+      "url": "artwork/player/player-brother-teen.webp",
+      "sha256": "6eeb9ce61d83e9890d74f6514aa23e7314393d4381e0033ad1a1a5d2313725ed",
+      "bytes": 60080
+    },
+    {
+      "url": "artwork/player/player-sister-adult.webp",
+      "sha256": "a099e7352fde4337df8e56c713ee0a71736842c166a504e31b8773f6fc442fb2",
+      "bytes": 57838
+    },
+    {
+      "url": "artwork/player/player-sister-child-tailless.webp",
+      "sha256": "724b4e6f44754845e9625f076c81e64c153346ff957e35f39fa3d48829d7da51",
+      "bytes": 61674
+    },
+    {
+      "url": "artwork/player/player-sister-teen.webp",
+      "sha256": "0529c7fc2bb8fad6bfa51fe28d932ffeb2ef6dbb32c0eb5a2b1db801205b7cc8",
+      "bytes": 58332
+    },
+    {
+      "url": "artwork/player/tien-v2.webp",
+      "sha256": "5b0b05d2b2d4b0b9335067876cbcf447df73ef99c5a7c614e7bb2b304f00343d",
+      "bytes": 49360
+    },
+    {
       "url": "artwork/tournament/S2A01.webp",
       "sha256": "eca74ca95631692c730dff4ad44137ee8d2faa750201a7517489e11fbe206ebb",
       "bytes": 43110
@@ -198,19 +388,19 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-D98cbqX0.js",
-      "sha256": "2813b146237691c6314e49c0577b12fba4a2146fc79feeed8fc79bd8c9755b40",
-      "bytes": 2118189
+      "url": "assets/index-B0-heTW9.js",
+      "sha256": "4bdfa0f75c1b9ee835324692bb8a09828532d6bb150c73e681455c2008c0f3ef",
+      "bytes": 3128267
     },
     {
-      "url": "assets/index-WNq2PzO6.css",
-      "sha256": "3cd864bef4f6286b94daa20bf11be2979998848571d9dc50a083488bef673be9",
-      "bytes": 90390
+      "url": "assets/index-BYQ2sGdQ.css",
+      "sha256": "55f912ff781adf4767b596bf655047ccaba8a75e8564ef49a6c6c39842f2ba90",
+      "bytes": 90579
     },
     {
-      "url": "assets/saveValidation.worker-DyOnw_wQ.js",
-      "sha256": "0e22afc00903c1e0a2320a55c002054ea911c35fc6aa8e9f2cce038c69822d68",
-      "bytes": 1182206
+      "url": "assets/saveValidation.worker-CrHl7-1K.js",
+      "sha256": "39c289717b88a9c7367a6e937a080149c824cec7deaa288b7df6d75c1b3e656f",
+      "bytes": 2176977
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -249,14 +439,14 @@
     },
     {
       "url": "index.html",
-      "sha256": "bcf8438ff750da8d65fa06f78ab9cdaee89993ce4390a030c86d58c38f327884",
-      "bytes": 957
+      "sha256": "a22f3647768237c16b0b83c05c14549bf875c3e6b371350d113412b11c30018c",
+      "bytes": 962
     },
     {
       "url": "manifest.webmanifest",
-      "sha256": "0910caada497622b4790ad0e6b00a4da8385335c8e04c85eb7d427888b5b7467",
-      "bytes": 661
+      "sha256": "a282a3f5919e964c530e5793256839aa6193f5dd3b723dc60d0898816f09f40a",
+      "bytes": 668
     }
   ],
-  "bytes": 8119241
+  "bytes": 13525727
 }
