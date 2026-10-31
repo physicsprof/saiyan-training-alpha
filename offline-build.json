@@ -1,6 +1,6 @@
 {
-  "build": "0.30.0-fecda45b7387",
-  "version": "0.30.0",
+  "build": "0.31.0-d82a34981575",
+  "version": "0.31.0",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -458,6 +458,21 @@
       "bytes": 43550
     },
     {
+      "url": "artwork/portraits/oozaru-C.webp",
+      "sha256": "36200798051dead221d22a9fa3e1253ba12e53ae51f571037e4c922c642293f9",
+      "bytes": 164948
+    },
+    {
+      "url": "artwork/portraits/oozaru-D.webp",
+      "sha256": "d4a4c45eb6f8a2525bd328970efc52ff2c65dd5cdc95cc188929bb4b4feedb13",
+      "bytes": 162354
+    },
+    {
+      "url": "artwork/portraits/oozaru-E.webp",
+      "sha256": "86b759b3658b6458a762314331629fd342b184285dd1d70f74bb36aad26387f2",
+      "bytes": 116522
+    },
+    {
       "url": "artwork/portraits/piccolo-2.webp",
       "sha256": "4f473efb446b009a8aefcabc3a36c8e1049e13bc7c08b028740fd03b3ed37a1c",
       "bytes": 44616
@@ -523,19 +538,19 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-2fqoBLWr.css",
-      "sha256": "e14621e12b52046e6029d3541b715d82d625abdaeda2eac4baee2afc7717d5ba",
-      "bytes": 92871
+      "url": "assets/index-DrRHv6_s.css",
+      "sha256": "7348ed7a76d65991b1ea22fcce759bc0e1ed45f8a43d85e73b03b64cfddd1d44",
+      "bytes": 92937
     },
     {
-      "url": "assets/index-8IgCTcV6.js",
-      "sha256": "c71db31e3efd7b07aac3ee94ce89089c0fcee1d02089d511631b6e02ecc06048",
-      "bytes": 5179784
+      "url": "assets/index-Hmf-Xj6c.js",
+      "sha256": "6a4c39f49ce2af4589c551ae9f6b7d4265425e4c2c9b5d6d62b369ef3ae21e0b",
+      "bytes": 5700958
     },
     {
-      "url": "assets/saveValidation.worker-Sq8rVG3v.js",
-      "sha256": "8f4e103f7f33361afdd80dcbc8aecf453601d86f887a6f8f582e389de94303e4",
-      "bytes": 4210948
+      "url": "assets/saveValidation.worker-B57qz_vq.js",
+      "sha256": "8a814b368d284705ead4e09eef2002b8a20144f3218ec9e23b0a42767dbfab17",
+      "bytes": 4728720
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -574,7 +589,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "d158a1f2214e21aeec5ed4d7ebbc6aca5675b82cd47ff9e07bd8c3b41a3230d4",
+      "sha256": "a62ef17939b310fc2c6434a08a02b687a0646da66fcb8031dedadfb962fac143",
       "bytes": 962
     },
     {
@@ -583,5 +598,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 19029651
+  "bytes": 20512487
 }
