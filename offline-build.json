@@ -1,6 +1,6 @@
 {
-  "build": "0.28.0-54aeb2f5b653",
-  "version": "0.28.0",
+  "build": "0.29.0-1b8ea019a514",
+  "version": "0.29.0",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -388,19 +388,19 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-CpXWXaDQ.css",
-      "sha256": "c1f083feb63ef36004acc1d91e7fcfc526bace91657358b573a11cbca3d0034f",
-      "bytes": 90646
+      "url": "assets/index-CmaEktjM.css",
+      "sha256": "cd38ee7483f1009f3cd73a9091df0a8e7a7af6d7334f29e948ea5f70ca27a4ef",
+      "bytes": 91774
     },
     {
-      "url": "assets/index-DKyxa4NB.js",
-      "sha256": "53c61adec7c5c15791205353f7e7ecb98c54faca6fab0221412f5f6bd34bb9c4",
-      "bytes": 4141277
+      "url": "assets/index-OIBOvede.js",
+      "sha256": "263057b6e5a1401225768ff15cfe28dbe5a3b375670384a33b46fffb2e990277",
+      "bytes": 4653431
     },
     {
-      "url": "assets/saveValidation.worker-CPTrK1s9.js",
-      "sha256": "f2734ae5f01caa61a796d574555fc64eaf0d8368d2b881d8f4b6db7073bae3f7",
-      "bytes": 3188408
+      "url": "assets/saveValidation.worker-CdfR0NpI.js",
+      "sha256": "6970977d08c0cba60e80dea77ec7b7aee89c407636235e4a7df74ffac1d9bac8",
+      "bytes": 3694467
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -439,7 +439,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "309295b819169a16f5155b861034962229b5b068541d7af8859d8e2723f836e1",
+      "sha256": "cf7ac881554e5fe1ebcd223515a577ba6a846a32862ce884b4f28cefded6a7d3",
       "bytes": 962
     },
     {
@@ -448,5 +448,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 15550235
+  "bytes": 16569576
 }
