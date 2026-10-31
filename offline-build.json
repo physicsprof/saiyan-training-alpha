@@ -1,6 +1,6 @@
 {
-  "build": "0.31.0-aa1aaf0e212b",
-  "version": "0.31.0",
+  "build": "0.32.0-5fe0132832c1",
+  "version": "0.32.0",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -538,14 +538,14 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-BlOOFLpf.css",
-      "sha256": "095cfd59e209b59f532a6bd355cc4e58b92a50ead3817a995f0383c75c66c6ac",
-      "bytes": 93005
+      "url": "assets/index-DPnYfvWn.css",
+      "sha256": "00e4cd451cf93871d7f7ea7975da94b0eef44b0c695d2bc3b1fe2baed6b40377",
+      "bytes": 94189
     },
     {
-      "url": "assets/index-DtLqLd23.js",
-      "sha256": "1504be449a561061063b320f470b2a897df8a386e3b6d4e3200b6ccc9569862a",
-      "bytes": 5700958
+      "url": "assets/index-Q319GSqY.js",
+      "sha256": "66ef44f5b04cc7494352e5e3202004df58bf92946750cb39e7eaa5607f7f943b",
+      "bytes": 5705772
     },
     {
       "url": "assets/saveValidation.worker-B57qz_vq.js",
@@ -589,7 +589,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "823474638b04f6f5f83c93cb1e193e8a82400d35c14487e208086a87d72c191a",
+      "sha256": "26a9159c32e63f913ef7dd32514a014048d6f1900ffc9883536f42ce21dab718",
       "bytes": 962
     },
     {
@@ -598,5 +598,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 20512555
+  "bytes": 20518553
 }
