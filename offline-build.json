@@ -1,5 +1,5 @@
 {
-  "build": "0.34.0-7f66386b424e",
+  "build": "0.34.0-5936e0665c62",
   "version": "0.34.0",
   "assets": [
     {
@@ -628,14 +628,14 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-BKXsrKub.css",
-      "sha256": "c64aa313b84a01057876b50964b534b61a4b1eef919ce6b80ad37603bb04beff",
-      "bytes": 97855
+      "url": "assets/index-CwvlkS75.css",
+      "sha256": "2b27ec14e2a87b805ceac5cf46ca3d97eda16092e9c22046aa752907b3456d45",
+      "bytes": 98064
     },
     {
-      "url": "assets/index-fIQ2z_u2.js",
-      "sha256": "fca29a80f420295f961f63c676fc233d6a5e6e7dcf47e1865d76ad0fe756fb97",
-      "bytes": 6251463
+      "url": "assets/index-I_25T_cT.js",
+      "sha256": "643832d7e45e136791d9d275fab81cb5ed3eb6eeaca1435db70c18dc3676517a",
+      "bytes": 6251538
     },
     {
       "url": "assets/saveValidation.worker-1ACdeC3h.js",
@@ -779,7 +779,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "c5f866b538a4f574db3d584ff1bfc97cbe767c26437e3e79c8726b9ce52740e4",
+      "sha256": "563bdcb8a091c670275ff5dcedd92eb628b6cb38757c8d12384f41dc708add08",
       "bytes": 962
     },
     {
@@ -788,5 +788,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 28591307
+  "bytes": 28591591
 }
