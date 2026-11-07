@@ -1,6 +1,6 @@
 {
-  "build": "0.32.0-5fe0132832c1",
-  "version": "0.32.0",
+  "build": "0.33.0-8e3f26b2f0d2",
+  "version": "0.33.0",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -508,6 +508,96 @@
       "bytes": 58046
     },
     {
+      "url": "artwork/raditz/Z_DS.webp",
+      "sha256": "5b21ade8ff6f20324771624a694188559681729a4fa1145489204f10dc6ff5b4",
+      "bytes": 77088
+    },
+    {
+      "url": "artwork/raditz/Z_SBC.webp",
+      "sha256": "9011fad96332b08cb80b5e03c3adeb11a5f39ccc8262acabaf39ffdbf981fe8f",
+      "bytes": 69708
+    },
+    {
+      "url": "artwork/raditz/Z_SCOUTER.webp",
+      "sha256": "e4b80c5807f37e1fc4bb98cf52b358c664506a99f28815f7ae582e56fdeef692",
+      "bytes": 48854
+    },
+    {
+      "url": "artwork/raditz/bulma-z.webp",
+      "sha256": "304c437f8548e8d1ed9bec3544721ee31ee8a75074e7ea8bcf7ea4b2697267da",
+      "bytes": 66572
+    },
+    {
+      "url": "artwork/raditz/db-completion-banner.webp",
+      "sha256": "90e123ba3d7333c5e1aa8e3ba04b9669b6469aee34842fca7acc80974f740474",
+      "bytes": 329118
+    },
+    {
+      "url": "artwork/raditz/gohan-child.webp",
+      "sha256": "c0c772440d9839460241302f8e7ae3798348c5ccb1be38f30f24c4a8a1699bad",
+      "bytes": 51292
+    },
+    {
+      "url": "artwork/raditz/gohan-resolve.webp",
+      "sha256": "583b5e9bc1f89ec95ccd540fd6640eb43aa8e562934ca940eba2ce3a19f3c199",
+      "bytes": 68482
+    },
+    {
+      "url": "artwork/raditz/goku-z.webp",
+      "sha256": "4acbdc90c2e625273da116ec2ad84f3ca2ff9961fabe6a4e0784cb58d08fa611",
+      "bytes": 60122
+    },
+    {
+      "url": "artwork/raditz/krillin-z.webp",
+      "sha256": "ba4d527f65e773328c404673ed92b8cc60c8f48723900d762ffa30591dd5ae24",
+      "bytes": 54474
+    },
+    {
+      "url": "artwork/raditz/piccolo-z.webp",
+      "sha256": "7b441e7842a13d1765ebebe55de7b7d2384cd9f92dc47cafca77a0ead67d14dc",
+      "bytes": 65246
+    },
+    {
+      "url": "artwork/raditz/raditz-aftermath.webp",
+      "sha256": "6719da799e57635b215a26680291c49ef345a43329d5ed191453e9a26810b51b",
+      "bytes": 204868
+    },
+    {
+      "url": "artwork/raditz/raditz-base.webp",
+      "sha256": "9e07e56f78c5c12f44bf62a5c26a9d2f18d2ed5c0a6e34c53d1734a960234eb5",
+      "bytes": 72350
+    },
+    {
+      "url": "artwork/raditz/raditz-family-home.webp",
+      "sha256": "675043e61ebb8ca6ff081e693527c13ad59d6a40a5588e70b080cbf1b879da08",
+      "bytes": 173344
+    },
+    {
+      "url": "artwork/raditz/raditz-pale.webp",
+      "sha256": "cd5fea64ed3de56479d7fc9d216a0c63ba32a93f8e9e09621592acc9ada1e813",
+      "bytes": 103848
+    },
+    {
+      "url": "artwork/raditz/raditz-pod.webp",
+      "sha256": "a1f506e4aced9b3e284a1d824aafece7e664ce02ce050ee9e577baa9d549e0a9",
+      "bytes": 233336
+    },
+    {
+      "url": "artwork/raditz/raditz-red.webp",
+      "sha256": "6b5e062b94541b2b81eb05ec4cbf384da42bc05b0f545bd567697ad3a7a9cf64",
+      "bytes": 123452
+    },
+    {
+      "url": "artwork/raditz/raditz-violet.webp",
+      "sha256": "2d82a3fd37c7eb05402b1e1408f6bf0a4e66846fb06f3235de4f92e9e96d0c8c",
+      "bytes": 134190
+    },
+    {
+      "url": "artwork/raditz/z-opening-banner.webp",
+      "sha256": "bbeb777fe7be9aa0c9bca0e5adfbab85c8829e7811968da53f6c93769e888201",
+      "bytes": 120120
+    },
+    {
       "url": "artwork/tournament/S2A01.webp",
       "sha256": "eca74ca95631692c730dff4ad44137ee8d2faa750201a7517489e11fbe206ebb",
       "bytes": 43110
@@ -538,19 +628,19 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-DPnYfvWn.css",
-      "sha256": "00e4cd451cf93871d7f7ea7975da94b0eef44b0c695d2bc3b1fe2baed6b40377",
-      "bytes": 94189
+      "url": "assets/index-D5pEbEyx.js",
+      "sha256": "99ed8622c017f64199b0fb1635a9968dbb2ef13a3073ae92ab1cc6ea86e769ee",
+      "bytes": 6245860
     },
     {
-      "url": "assets/index-Q319GSqY.js",
-      "sha256": "66ef44f5b04cc7494352e5e3202004df58bf92946750cb39e7eaa5607f7f943b",
-      "bytes": 5705772
+      "url": "assets/index-rpa-cwyn.css",
+      "sha256": "10af1958e863adc355afd0387ba017c9f1f207caf0c9a22e625407380033fbcb",
+      "bytes": 97016
     },
     {
-      "url": "assets/saveValidation.worker-B57qz_vq.js",
-      "sha256": "8a814b368d284705ead4e09eef2002b8a20144f3218ec9e23b0a42767dbfab17",
-      "bytes": 4728720
+      "url": "assets/saveValidation.worker-1ACdeC3h.js",
+      "sha256": "f3840f6918c7f497aa1c730358169b61386e1912010cae18fee111787d303905",
+      "bytes": 5259019
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -589,7 +679,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "26a9159c32e63f913ef7dd32514a014048d6f1900ffc9883536f42ce21dab718",
+      "sha256": "917b7e695dee71bbe55a0007c372dd0d3215ab62092c1554147ec8354739dcbc",
       "bytes": 962
     },
     {
@@ -598,5 +688,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 20518553
+  "bytes": 23648231
 }
