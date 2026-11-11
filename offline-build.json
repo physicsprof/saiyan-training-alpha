@@ -1,6 +1,6 @@
 {
-  "build": "0.34.0-5936e0665c62",
-  "version": "0.34.0",
+  "build": "0.35.0-d747787601b2",
+  "version": "0.35.0",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -598,6 +598,181 @@
       "bytes": 120120
     },
     {
+      "url": "artwork/saiyan/SY_GI.webp",
+      "sha256": "099b14b53b38e210a3017a960314622e57edbeb410d32055f578427a470a1e3d",
+      "bytes": 86084
+    },
+    {
+      "url": "artwork/saiyan/SY_SEAL.webp",
+      "sha256": "c26cec54eb526653ff64364bb9d253937250504d69c79dfc96183a61526784c2",
+      "bytes": 53266
+    },
+    {
+      "url": "artwork/saiyan/brave_yajirobe.webp",
+      "sha256": "879250acd996cc2c7491ab630b1c4b93ff6300852c84b29556d0b67b8dbe1315",
+      "bytes": 100898
+    },
+    {
+      "url": "artwork/saiyan/disc_krillin.webp",
+      "sha256": "34176c025135be94fab513f0f7ffef65823e4c993cd568434ffc33c9abb8f238",
+      "bytes": 71140
+    },
+    {
+      "url": "artwork/saiyan/earth-defended.webp",
+      "sha256": "05e5a5479e0008f81169dafbe415563f73f8a5de4fc26247f1b43133b3bf064e",
+      "bytes": 155604
+    },
+    {
+      "url": "artwork/saiyan/great-ape-confrontation.webp",
+      "sha256": "4d53c17126594ee3006b842c190a28c246c893d2ceee810636fee78c9d5317de",
+      "bytes": 129492
+    },
+    {
+      "url": "artwork/saiyan/kaio_trained.webp",
+      "sha256": "61a2e415e13144763080c9ec13f82ca05882f8a5481594f83b14caf89f18d847",
+      "bytes": 38318
+    },
+    {
+      "url": "artwork/saiyan/kaioken-C.webp",
+      "sha256": "d6b79b557265fa534229062b395eb4438eb7c7e0acca6a95c916426db6728992",
+      "bytes": 68988
+    },
+    {
+      "url": "artwork/saiyan/kaioken-D.webp",
+      "sha256": "36d2366998de4c3baeb6af5f52cb23fdbca8c55168c87c4c5a4a6c50106045b3",
+      "bytes": 59096
+    },
+    {
+      "url": "artwork/saiyan/kaioken-E.webp",
+      "sha256": "7d6e639f290049f86e3be2cfefc8c30322359a698552c5e87be32e216a9ae0ea",
+      "bytes": 63406
+    },
+    {
+      "url": "artwork/saiyan/king-kai-planet.webp",
+      "sha256": "1ee161de6e1e061944e5ffb5abcc0e0647e4bfcfa57b607e2711f13b5fe4b66a",
+      "bytes": 150220
+    },
+    {
+      "url": "artwork/saiyan/king_kai-1.webp",
+      "sha256": "d4038ce9048223b66fbff6cb6040796b5733e7db10f54a8482a765f726bc5651",
+      "bytes": 65564
+    },
+    {
+      "url": "artwork/saiyan/king_kai-2.webp",
+      "sha256": "4702c3fb40aba6829391c72dd4ee40eaaa88e5dc800c8c9dff41fbd238c028f9",
+      "bytes": 52550
+    },
+    {
+      "url": "artwork/saiyan/king_kai-3.webp",
+      "sha256": "eb4c2102488b47690a1774b8b9e7e45dd8ba8af13cad0b7202e5a3081206d0df",
+      "bytes": 61412
+    },
+    {
+      "url": "artwork/saiyan/masenko_gohan.webp",
+      "sha256": "89a0dbdbf7b3a205bba1ad7f756382e72895ea68242aa76979d87a6a72888418",
+      "bytes": 80044
+    },
+    {
+      "url": "artwork/saiyan/mentor_piccolo.webp",
+      "sha256": "9072d14684fe78b8b0f1dae84d8ca45878f208679044719e92150c60c07ef2e3",
+      "bytes": 73530
+    },
+    {
+      "url": "artwork/saiyan/nappa-1.webp",
+      "sha256": "112b4adea4f5645c7357a7643cd8bc643cc02f61c41db83ca60abf771720bc03",
+      "bytes": 81624
+    },
+    {
+      "url": "artwork/saiyan/nappa-2.webp",
+      "sha256": "e11090c46883ed41bd68aed8e35af0f6943dbfb345af7574b5c3c5f4f328e8b9",
+      "bytes": 80194
+    },
+    {
+      "url": "artwork/saiyan/nappa-3.webp",
+      "sha256": "28004ee2b0245c1b3f46dd09de2522c57ba4aa95fe710ad1fa33d81ef0322ef5",
+      "bytes": 104246
+    },
+    {
+      "url": "artwork/saiyan/piccolo-protects-gohan.webp",
+      "sha256": "df27207b249d5110e647171293d3e178bf50b1f039c3b06c293407c1087042af",
+      "bytes": 132368
+    },
+    {
+      "url": "artwork/saiyan/protector_piccolo.webp",
+      "sha256": "df33cac62074cb43af4e5e2efd82c73d757fcab03a27c916903fcd959251f72f",
+      "bytes": 64700
+    },
+    {
+      "url": "artwork/saiyan/saiyan-battlefield.webp",
+      "sha256": "4133b9810dc478ad8f61cf8136497b842233be9bc2fe07de3c8708f444f877c6",
+      "bytes": 142434
+    },
+    {
+      "url": "artwork/saiyan/saiyan-invasion.webp",
+      "sha256": "64965d06ff5318b4991d1a50a0bae08c8d0080c505a60fbc1daf888b1aaf6f9e",
+      "bytes": 143572
+    },
+    {
+      "url": "artwork/saiyan/saiyan-wilderness.webp",
+      "sha256": "370909dc39d05280fd15e0b21facb44ca5828f5a6844c0c7ff8d9b3b1d1f33db",
+      "bytes": 200746
+    },
+    {
+      "url": "artwork/saiyan/saiyan_chiaotzu.webp",
+      "sha256": "e69ffce686fcd336397c2b02a70518b784e6f917924a1948831f218f3282fcce",
+      "bytes": 49684
+    },
+    {
+      "url": "artwork/saiyan/saiyan_tien.webp",
+      "sha256": "dd79bdfb471ac2df2e4173fc425e85b5c9294d3578641ba105750d08963c9431",
+      "bytes": 55706
+    },
+    {
+      "url": "artwork/saiyan/saiyan_trained_krillin.webp",
+      "sha256": "070651ec526dd95b1580b4df50eb69e9ccc9ecd3e40a2b763296c97eb06122ed",
+      "bytes": 60536
+    },
+    {
+      "url": "artwork/saiyan/saiyan_yamcha.webp",
+      "sha256": "09e81209168876c3ddfce0f523491ccc7060fa6c996aa0070ef68b6a081c8487",
+      "bytes": 64250
+    },
+    {
+      "url": "artwork/saiyan/snake-way.webp",
+      "sha256": "234f3d114be65a82abf876782b355c0e3a2dc8ede7297873c63508c93e6502e2",
+      "bytes": 95948
+    },
+    {
+      "url": "artwork/saiyan/trained_gohan.webp",
+      "sha256": "d5c23325d501ac27ce6ac49ce490137826052fa00334ee178dd842659747935a",
+      "bytes": 108486
+    },
+    {
+      "url": "artwork/saiyan/vegeta-1.webp",
+      "sha256": "d8955b98cfced54a6528602c80e0fb6891a7be9e8ae89b609e03ccae55e8380a",
+      "bytes": 58150
+    },
+    {
+      "url": "artwork/saiyan/vegeta-2.webp",
+      "sha256": "8d8eba320f662a700b4cdd82237a93e96a9e555d8d6a89eee6278422f55611d5",
+      "bytes": 72574
+    },
+    {
+      "url": "artwork/saiyan/vegeta-3.webp",
+      "sha256": "632c74bfba8c4f434e946e79a6965809d4c98967a055af82a667303a7409d841",
+      "bytes": 84452
+    },
+    {
+      "url": "artwork/saiyan/vegeta-great-ape.webp",
+      "sha256": "90001028251400b506a49bf8d52e9004be46169ec246cf0a466da41421f134dc",
+      "bytes": 65346
+    },
+    {
+      "url": "artwork/saiyan/wilderness_gohan.webp",
+      "sha256": "500aebf2fc3e49293ba96de23947b0933a5ecb424daf7b790fa01cc4ba737dc8",
+      "bytes": 105450
+    },
+    {
       "url": "artwork/tournament/S2A01.webp",
       "sha256": "eca74ca95631692c730dff4ad44137ee8d2faa750201a7517489e11fbe206ebb",
       "bytes": 43110
@@ -628,19 +803,19 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-CwvlkS75.css",
-      "sha256": "2b27ec14e2a87b805ceac5cf46ca3d97eda16092e9c22046aa752907b3456d45",
-      "bytes": 98064
+      "url": "assets/index-BJsi5xSP.js",
+      "sha256": "f5fe56b0a4683efaefbb6018027544e3cbac47e7be016ca6faff6e00190d9b9d",
+      "bytes": 6833855
     },
     {
-      "url": "assets/index-I_25T_cT.js",
-      "sha256": "643832d7e45e136791d9d275fab81cb5ed3eb6eeaca1435db70c18dc3676517a",
-      "bytes": 6251538
+      "url": "assets/index-pqbCNsWl.css",
+      "sha256": "ea8384a40ddd2666f66ab70c1918f17a6645f51403f8d66cb6408f4f68669497",
+      "bytes": 98815
     },
     {
-      "url": "assets/saveValidation.worker-1ACdeC3h.js",
-      "sha256": "f3840f6918c7f497aa1c730358169b61386e1912010cae18fee111787d303905",
-      "bytes": 5259019
+      "url": "assets/saveValidation.worker-BMrTpzkZ.js",
+      "sha256": "f47bb5f0ef0e829bc5800221536b3e78dd98398fa7cf1922ef797c33dff042aa",
+      "bytes": 5829323
     },
     {
       "url": "clips/afterimage.mp4",
@@ -653,6 +828,16 @@
       "bytes": 45792
     },
     {
+      "url": "clips/destructo-disc.mp4",
+      "sha256": "3438e97541a501cb97721261e6a000757c044976b8e4bf427a1583c50c728419",
+      "bytes": 400916
+    },
+    {
+      "url": "clips/destructo-disc.webp",
+      "sha256": "28315dca07e1b97d11ac07663c2dc03eab30a0cea599b53101d85508d3b14491",
+      "bytes": 45516
+    },
+    {
       "url": "clips/double-sunday.mp4",
       "sha256": "9ce8a9a282089a6281f09291421c62504703653e196edd631605f67b4d6298b8",
       "bytes": 355749
@@ -663,6 +848,16 @@
       "bytes": 35056
     },
     {
+      "url": "clips/galick-gun.mp4",
+      "sha256": "b89dbfe8f235c86aff7d4c20c52861b41436620e7c69d5366a775bf1ff08c385",
+      "bytes": 425758
+    },
+    {
+      "url": "clips/galick-gun.webp",
+      "sha256": "6e453c7e762d7f197878beadc9b7093e61cb94f3ca2d0cba2e13a60b421c60cf",
+      "bytes": 38962
+    },
+    {
       "url": "clips/gohan-hidden-power.mp4",
       "sha256": "97df394b6dade139eed48abb459a6b03fd3d57d93d2d9705f1cf36809f254032",
       "bytes": 498779
@@ -671,6 +866,16 @@
       "url": "clips/gohan-hidden-power.webp",
       "sha256": "43f2b2682b0259a0e19a6baa9c8ea211f4e0346f8475d7df3d3af4576a5db7a7",
       "bytes": 40772
+    },
+    {
+      "url": "clips/kaioken.mp4",
+      "sha256": "04240090699fc2f78f888f90dd660890a5c0130bb3322ede86164c5ea8195731",
+      "bytes": 414991
+    },
+    {
+      "url": "clips/kaioken.webp",
+      "sha256": "1964e97485d175721a212ccd22a52a10a327df0d40b71060421bb30816cf2d13",
+      "bytes": 40280
     },
     {
       "url": "clips/kamehameha.mp4",
@@ -733,6 +938,16 @@
       "bytes": 48892
     },
     {
+      "url": "clips/spirit-bomb.mp4",
+      "sha256": "2f8cd70639b028de20a97e171b5d0d00dfab74b6c5fc4476de6c23b6d2799402",
+      "bytes": 434476
+    },
+    {
+      "url": "clips/spirit-bomb.webp",
+      "sha256": "7cd95719a8d869bbe31db9b00cc8badfc1aab47ce7bb35cfd4d3b0c8d3524d41",
+      "bytes": 45624
+    },
+    {
       "url": "clips/super-kamehameha.mp4",
       "sha256": "1c3c7a08299c31ada3b8acacf659b47d028f65bc2cc1bb50499657da30a7687c",
       "bytes": 454022
@@ -779,7 +994,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "563bdcb8a091c670275ff5dcedd92eb628b6cb38757c8d12384f41dc708add08",
+      "sha256": "9187d8c822afa1a2bac8ad6d1a55f64e526c5f2af9ffa9c16014ae04d3da730b",
       "bytes": 962
     },
     {
@@ -788,5 +1003,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 28591591
+  "bytes": 34671564
 }
