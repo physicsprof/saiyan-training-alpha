@@ -1,6 +1,6 @@
 {
-  "build": "0.35.0-d747787601b2",
-  "version": "0.35.0",
+  "build": "0.35.1-a582c766200a",
+  "version": "0.35.1",
   "assets": [
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
@@ -803,14 +803,14 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-BJsi5xSP.js",
-      "sha256": "f5fe56b0a4683efaefbb6018027544e3cbac47e7be016ca6faff6e00190d9b9d",
-      "bytes": 6833855
+      "url": "assets/index-CmW6UvhT.css",
+      "sha256": "83c892c55ebce97f7771b44a271e9867548ea8f6a64bbf54d86d78dcc9da9b7a",
+      "bytes": 98898
     },
     {
-      "url": "assets/index-pqbCNsWl.css",
-      "sha256": "ea8384a40ddd2666f66ab70c1918f17a6645f51403f8d66cb6408f4f68669497",
-      "bytes": 98815
+      "url": "assets/index-DeHfmngl.js",
+      "sha256": "e030310ee2062e6baa73468702a4b300e29f2996f427f3de91109b36a23fa71c",
+      "bytes": 6833935
     },
     {
       "url": "assets/saveValidation.worker-BMrTpzkZ.js",
@@ -849,13 +849,13 @@
     },
     {
       "url": "clips/galick-gun.mp4",
-      "sha256": "b89dbfe8f235c86aff7d4c20c52861b41436620e7c69d5366a775bf1ff08c385",
-      "bytes": 425758
+      "sha256": "790e3cadb7fa26582a0300f6724f613713dabd4ec2e12e19bdded57117cd7c24",
+      "bytes": 838730
     },
     {
       "url": "clips/galick-gun.webp",
-      "sha256": "6e453c7e762d7f197878beadc9b7093e61cb94f3ca2d0cba2e13a60b421c60cf",
-      "bytes": 38962
+      "sha256": "9b68f45923ddc6dbb87bb3a1fe2fea319c1e42860ee7a24aada149ef736a5523",
+      "bytes": 41000
     },
     {
       "url": "clips/gohan-hidden-power.mp4",
@@ -994,7 +994,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "9187d8c822afa1a2bac8ad6d1a55f64e526c5f2af9ffa9c16014ae04d3da730b",
+      "sha256": "e1709e25f63e40bcbbfba356bc3883c03ba56cb6d49cade48620d9dba37c6b17",
       "bytes": 962
     },
     {
@@ -1003,5 +1003,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 34671564
+  "bytes": 35086737
 }
