@@ -1,6 +1,6 @@
 {
-  "build": "0.35.1-66f8f8861b5e",
-  "version": "0.35.1",
+  "build": "0.36.0-de86c8fc2970",
+  "version": "0.36.0",
   "assets": [
     {
       "url": "artwork/adventure/first-secret.webp",
@@ -853,6 +853,76 @@
       "bytes": 105450
     },
     {
+      "url": "artwork/story/baker.webp",
+      "sha256": "399f847ab332b1f2109cfa2659bcd2b09d0dbebff0e583d9106e4cd94be86a73",
+      "bytes": 49120
+    },
+    {
+      "url": "artwork/story/bout-slip.webp",
+      "sha256": "6ab9091c70d673f5d26ac0c0aada464416f2d0db6ee78b7559d2f4266be35850",
+      "bytes": 21308
+    },
+    {
+      "url": "artwork/story/dawn-table.webp",
+      "sha256": "354225d562f0e6ae18b356cc2cfdbbb386de5bf2beecb1fcfdfd5d96e9417be2",
+      "bytes": 109780
+    },
+    {
+      "url": "artwork/story/door-sign.webp",
+      "sha256": "743ac498e3485edf45e3d983c2f25821791fb378a9a0dc896c90c897fbb4a004",
+      "bytes": 25106
+    },
+    {
+      "url": "artwork/story/flour-ring.webp",
+      "sha256": "a8fa7d170143e694115a9814e78ab0064da93d25d0a484de88be94a478f115a6",
+      "bytes": 113152
+    },
+    {
+      "url": "artwork/story/lantern-press.webp",
+      "sha256": "ffaba120291bbd8f78e7ab72723b01430a9ad2d6362b383c4b0942f33c162bba",
+      "bytes": 116152
+    },
+    {
+      "url": "artwork/story/mugi-listen.webp",
+      "sha256": "1134cbe937e4071a81bfd0228b70016d6528eb1bd20bb41458c0715267fed4dd",
+      "bytes": 50646
+    },
+    {
+      "url": "artwork/story/mugi-smile.webp",
+      "sha256": "704f47099b4f07dd8eaacf0d78a34c431815179c5cba70ca6b4cbad2e76c498e",
+      "bytes": 49302
+    },
+    {
+      "url": "artwork/story/printing-room.webp",
+      "sha256": "711d6e7ed2901502f1b005e33101b379afee303c4a82f65b12549f9484a11c2d",
+      "bytes": 114720
+    },
+    {
+      "url": "artwork/story/signal-spool.webp",
+      "sha256": "c3885c293f742c44a36030ad7fe8360521bd81ba965c38c47267e7e3b3c47418",
+      "bytes": 25418
+    },
+    {
+      "url": "artwork/story/soba-listen.webp",
+      "sha256": "300d07480cc22f8f9ed661b75d1fdfd7b8b2740fb984510753259bf712453abe",
+      "bytes": 50802
+    },
+    {
+      "url": "artwork/story/soba-smile.webp",
+      "sha256": "6a5aa29c56a094eb49f9575ceb986eb71bc98dd0528df33f8c7d26cc96a55d98",
+      "bytes": 50678
+    },
+    {
+      "url": "artwork/story/tower-door.webp",
+      "sha256": "2b62ffc7c2c04d5bec70ea36940014ec70213ceab5a3686ae6a7b7fd67b89bde",
+      "bytes": 108908
+    },
+    {
+      "url": "artwork/story/wedding-proof.webp",
+      "sha256": "4dd692105936d1e4edb537059d8789867a8d382ef6d7ae7453f3b6179ea5f0d7",
+      "bytes": 19740
+    },
+    {
       "url": "artwork/strategy/turtle-school-map.webp",
       "sha256": "adcb69a37f3097cfe87a629ede6e24b28ce9ae6b016e8ba1e7ed0b2340de0f3f",
       "bytes": 263360
@@ -908,19 +978,19 @@
       "bytes": 368494
     },
     {
-      "url": "assets/index-B1OThYFX.css",
-      "sha256": "38f2052cf5246a9bf96265e2c9cea5db9e67897e5e889e5bb11f5650cdf974d8",
-      "bytes": 279993
+      "url": "assets/index-B3K5v9Qp.css",
+      "sha256": "a983c6a19d9c45156fc280ed189ef07c61260e0c06d0b5a618f2cee4e146df06",
+      "bytes": 281688
     },
     {
-      "url": "assets/index-Fos3giaK.js",
-      "sha256": "9cf354a179c3aa2d36070dfb6c604340a7e73b3d652e9ab14a615c2eff42c355",
-      "bytes": 7095243
+      "url": "assets/index-CL9q1YMe.js",
+      "sha256": "41fe7cbc67ac4be291915fe24273352dd0c8d7bb90608c032c3942de8f351000",
+      "bytes": 7161481
     },
     {
-      "url": "assets/saveValidation.worker-BtYVLbJ1.js",
-      "sha256": "a4ad1df32330382b8bca46de95c7b7696a697c157945c06fe0c77a608388dcf2",
-      "bytes": 5830091
+      "url": "assets/saveValidation.worker-BBvs3QEO.js",
+      "sha256": "43194c554d9be8f5668b2354b8f44c0cf4599afbd6df653f6c2b78dc7bc7c883",
+      "bytes": 5832463
     },
     {
       "url": "clips/afterimage-ending.webp",
@@ -1179,7 +1249,7 @@
     },
     {
       "url": "index.html",
-      "sha256": "523cfa3cac58807f3d4a0bf5c333c3c1a9c15b4c64da2542fba4e7d066eb24f9",
+      "sha256": "9ba34e8ce9915d53f1fc8ecc152ee6757b96af18467b0f1485645ac966b16ff7",
       "bytes": 2072
     },
     {
@@ -1188,5 +1258,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 46779154
+  "bytes": 47754291
 }
