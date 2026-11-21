@@ -1,7 +1,52 @@
 {
-  "build": "0.35.1-a582c766200a",
+  "build": "0.35.1-66f8f8861b5e",
   "version": "0.35.1",
   "assets": [
+    {
+      "url": "artwork/adventure/first-secret.webp",
+      "sha256": "6eaa7e1723e2f5a64a326313afba5cb24d7d979cf5399e74974d33273049c446",
+      "bytes": 260984
+    },
+    {
+      "url": "artwork/adventure/first-wish.webp",
+      "sha256": "a39afde09fdbd3782910793f41cbdae613e794ad96a2bcb85c0ec1055e3a54b5",
+      "bytes": 237934
+    },
+    {
+      "url": "artwork/adventure/island-night.webp",
+      "sha256": "0b7821fa052f916816e1c215a64ca0c7ac5d4c223669ccff08a325999c2ad766",
+      "bytes": 128380
+    },
+    {
+      "url": "artwork/adventure/island.webp",
+      "sha256": "80a37918b53eacdb7c71cb4632b849afb0947547a56186ea7cba3f9d6cfe9b7f",
+      "bytes": 159368
+    },
+    {
+      "url": "artwork/adventure/press-up.webp",
+      "sha256": "63e874c0e037ad12952e138473b9dc43934e5551eaa2bb009df0c65c9b896012",
+      "bytes": 12052
+    },
+    {
+      "url": "artwork/adventure/tournament-arrival.webp",
+      "sha256": "271738c17da0d52c60215611921fafad9bfe36c07d2cb4723162e90d8c4e2bba",
+      "bytes": 253038
+    },
+    {
+      "url": "artwork/adventure/tournament-programme.webp",
+      "sha256": "ab9efe4f0e74ee92f6c1851023078aabdc3765ce3a8df48b9b69e095ac010b25",
+      "bytes": 40574
+    },
+    {
+      "url": "artwork/adventure/tournament-trail.webp",
+      "sha256": "e8827d7cd80ccd7ce448553cf801058379ae8099275174117459823125c65042",
+      "bytes": 502292
+    },
+    {
+      "url": "artwork/adventure/weighted-shell.webp",
+      "sha256": "33c3f0175174f6ce890e2b97f1f988f9cc1a22d2084fe6527a49301df50d262f",
+      "bytes": 27872
+    },
     {
       "url": "artwork/campaign/DBA_AFTERIMAGE.webp",
       "sha256": "46b7ac2761698b42da20c22a7b3187110c151a1be419efff8f5f61c8dcb9edb7",
@@ -146,6 +191,41 @@
       "url": "artwork/campaign/yajirobe.webp",
       "sha256": "3f83d774a82d96244433b23701820e0d57d5f0be1c8ca138d27252c43f131f27",
       "bytes": 40430
+    },
+    {
+      "url": "artwork/journal/journal.webp",
+      "sha256": "f083ade030a6109e78b579e6ed43a071014a3ed3d151a7530a497ec9ed3c35cb",
+      "bytes": 248446
+    },
+    {
+      "url": "artwork/journal/patch-beads.webp",
+      "sha256": "ca77260814c5a36bb0aa6ec598bab18632e53806112ac7ced23c11cf6f2f1b16",
+      "bytes": 19480
+    },
+    {
+      "url": "artwork/journal/patch-cloud.webp",
+      "sha256": "ad9dded1acbbbde10b4f827394bda3bbbf79d415d1213c9670b558647e9a6997",
+      "bytes": 17678
+    },
+    {
+      "url": "artwork/journal/patch-friends.webp",
+      "sha256": "8f482b44aa1b5b14ed182a31a85719ecb2f67e10e5268c61a41775e8a69f588a",
+      "bytes": 15386
+    },
+    {
+      "url": "artwork/journal/patch-shell.webp",
+      "sha256": "391b17dd1e7ce205a27a4e7904c0982047f397b4a2d1af889dbb28aaa30cd091",
+      "bytes": 20600
+    },
+    {
+      "url": "artwork/journal/patch-steps.webp",
+      "sha256": "59add83a6c720e03780383e235e607a61082218728863b29668465f9b17113bf",
+      "bytes": 18200
+    },
+    {
+      "url": "artwork/journal/patch-wish.webp",
+      "sha256": "f7189eff91ada4df37d127d08b429d76c5254d328bcc21ca561c06c8ad86d5b7",
+      "bytes": 22638
     },
     {
       "url": "artwork/pilaf/DBA01.webp",
@@ -773,6 +853,11 @@
       "bytes": 105450
     },
     {
+      "url": "artwork/strategy/turtle-school-map.webp",
+      "sha256": "adcb69a37f3097cfe87a629ede6e24b28ce9ae6b016e8ba1e7ed0b2340de0f3f",
+      "bytes": 263360
+    },
+    {
       "url": "artwork/tournament/S2A01.webp",
       "sha256": "eca74ca95631692c730dff4ad44137ee8d2faa750201a7517489e11fbe206ebb",
       "bytes": 43110
@@ -803,54 +888,94 @@
       "bytes": 162996
     },
     {
-      "url": "assets/index-CmW6UvhT.css",
-      "sha256": "83c892c55ebce97f7771b44a271e9867548ea8f6a64bbf54d86d78dcc9da9b7a",
-      "bytes": 98898
+      "url": "artwork/workshop/case.webp",
+      "sha256": "291ca05a69c2d9152d268a18ab3ca74fb99d3b3d0b1192c103191467fd0faf34",
+      "bytes": 46696
     },
     {
-      "url": "assets/index-DeHfmngl.js",
-      "sha256": "e030310ee2062e6baa73468702a4b300e29f2996f427f3de91109b36a23fa71c",
-      "bytes": 6833935
+      "url": "artwork/workshop/notebook.webp",
+      "sha256": "36de5aebc4bb7686880792bbed420de134f6fd1541bd23cc03d8504d9b1dc5b5",
+      "bytes": 18180
     },
     {
-      "url": "assets/saveValidation.worker-BMrTpzkZ.js",
-      "sha256": "f47bb5f0ef0e829bc5800221536b3e78dd98398fa7cf1922ef797c33dff042aa",
-      "bytes": 5829323
+      "url": "artwork/workshop/radio.webp",
+      "sha256": "674cdd1a8241fec0bb1670261081e0cec6437aeb1f2c92b03452bc520a20eec5",
+      "bytes": 36544
+    },
+    {
+      "url": "artwork/workshop/workshop.webp",
+      "sha256": "2019ab43cd8794cf0516e89f2a8329ea9d92d9f4437d5612b1b1060b8f7cb025",
+      "bytes": 368494
+    },
+    {
+      "url": "assets/index-B1OThYFX.css",
+      "sha256": "38f2052cf5246a9bf96265e2c9cea5db9e67897e5e889e5bb11f5650cdf974d8",
+      "bytes": 279993
+    },
+    {
+      "url": "assets/index-Fos3giaK.js",
+      "sha256": "9cf354a179c3aa2d36070dfb6c604340a7e73b3d652e9ab14a615c2eff42c355",
+      "bytes": 7095243
+    },
+    {
+      "url": "assets/saveValidation.worker-BtYVLbJ1.js",
+      "sha256": "a4ad1df32330382b8bca46de95c7b7696a697c157945c06fe0c77a608388dcf2",
+      "bytes": 5830091
+    },
+    {
+      "url": "clips/afterimage-ending.webp",
+      "sha256": "b6bd9a55761abfbb294bbc86d09392e620502923d88d9eafdd8ebdfd6996159a",
+      "bytes": 280672
     },
     {
       "url": "clips/afterimage.mp4",
-      "sha256": "177e4fa7cdcc55db94b99f513c4483dd5f50f22eb509fcf3baa8c5cf47d55b6b",
-      "bytes": 313766
+      "sha256": "f8fbab8e2224662b266fc3726d62bb7af523d1c56c31f94dd1d6336accc85c0f",
+      "bytes": 997304
     },
     {
       "url": "clips/afterimage.webp",
-      "sha256": "39c201dc65e3ca71e77f68d62b68230caf7ef9ff7ebd16aecf41bc323f4c93fe",
-      "bytes": 45792
+      "sha256": "bad4416a614604888ee25478b830e4f00ff71ea227b597bfacaa9d3a9e1c2bd2",
+      "bytes": 279644
+    },
+    {
+      "url": "clips/destructo-disc-ending.webp",
+      "sha256": "86e51f581dd07c3f70c76cd07fbba4ad368a676bb0033a5a310772502b7dcefb",
+      "bytes": 222292
     },
     {
       "url": "clips/destructo-disc.mp4",
-      "sha256": "3438e97541a501cb97721261e6a000757c044976b8e4bf427a1583c50c728419",
-      "bytes": 400916
+      "sha256": "77803c229b50d6b685179dc398b606af08587c5ad04c01de230519891c5a3996",
+      "bytes": 641528
     },
     {
       "url": "clips/destructo-disc.webp",
-      "sha256": "28315dca07e1b97d11ac07663c2dc03eab30a0cea599b53101d85508d3b14491",
-      "bytes": 45516
+      "sha256": "f445f9e7dfc6b1fbba88a4a687845be5e0ac5e4b97fc5f48b5bf29d20b0a7d4f",
+      "bytes": 209972
+    },
+    {
+      "url": "clips/double-sunday-ending.webp",
+      "sha256": "f56b4aa8019e360672c251fd58f6cb1032592435dabf2cd9d92618e15b607509",
+      "bytes": 231804
     },
     {
       "url": "clips/double-sunday.mp4",
-      "sha256": "9ce8a9a282089a6281f09291421c62504703653e196edd631605f67b4d6298b8",
-      "bytes": 355749
+      "sha256": "dc629daae526573d76303730222a010784905b441a5843913c055cd2fd8ed56d",
+      "bytes": 580994
     },
     {
       "url": "clips/double-sunday.webp",
-      "sha256": "a3e37d8a126298c8262ffd185fa2da71695f4d58bb411d6b683e467a9b97fcd8",
-      "bytes": 35056
+      "sha256": "89919f24e87530044c56a10d6c64f7a50ed8b9ff5f430e34ecdab6508db359b3",
+      "bytes": 209248
+    },
+    {
+      "url": "clips/galick-gun-ending.webp",
+      "sha256": "882cc9e48678e2f7f40c4c936857016fde1f8375bfd807670d658908f42bbb9c",
+      "bytes": 200864
     },
     {
       "url": "clips/galick-gun.mp4",
-      "sha256": "790e3cadb7fa26582a0300f6724f613713dabd4ec2e12e19bdded57117cd7c24",
-      "bytes": 838730
+      "sha256": "ccc884eac22f771796adea0fbaa7c0d12e0c854e95e445678474bcbb6852f94d",
+      "bytes": 874954
     },
     {
       "url": "clips/galick-gun.webp",
@@ -858,104 +983,164 @@
       "bytes": 41000
     },
     {
+      "url": "clips/gohan-hidden-power-ending.webp",
+      "sha256": "ca74e1434411ff6e4b81c65d1f8b83ba32d887664bdf756b873cfdfbba15bd4a",
+      "bytes": 174120
+    },
+    {
       "url": "clips/gohan-hidden-power.mp4",
-      "sha256": "97df394b6dade139eed48abb459a6b03fd3d57d93d2d9705f1cf36809f254032",
-      "bytes": 498779
+      "sha256": "9faf6ecb2eea54b4fb66c5566e896735e27bdf96b3b71601a0b2f38df2c5b259",
+      "bytes": 652521
     },
     {
       "url": "clips/gohan-hidden-power.webp",
-      "sha256": "43f2b2682b0259a0e19a6baa9c8ea211f4e0346f8475d7df3d3af4576a5db7a7",
-      "bytes": 40772
+      "sha256": "d899a4828ee6856823ab77745e84ab73bb4b0be30823d94bb0ac1fd1b02c3fec",
+      "bytes": 184818
+    },
+    {
+      "url": "clips/kaioken-ending.webp",
+      "sha256": "2007747e3451e3ef9ca341803ea0f69a00602f3c596d11ceac73b23fd5fcfcb5",
+      "bytes": 201856
     },
     {
       "url": "clips/kaioken.mp4",
-      "sha256": "04240090699fc2f78f888f90dd660890a5c0130bb3322ede86164c5ea8195731",
-      "bytes": 414991
+      "sha256": "99a24767c194e564da05a9d21ca6ee2caaab50fea8f4a3202f579c63e0dbb640",
+      "bytes": 819159
     },
     {
       "url": "clips/kaioken.webp",
-      "sha256": "1964e97485d175721a212ccd22a52a10a327df0d40b71060421bb30816cf2d13",
-      "bytes": 40280
+      "sha256": "41985cac7096235a54b8f1234d4d90587ff6901a637c440b439346a6563ec45a",
+      "bytes": 199642
+    },
+    {
+      "url": "clips/kamehameha-ending.webp",
+      "sha256": "058836ed9dd8250b65926ad45a5b41caa567cf589ae0389877c225f269f48fd3",
+      "bytes": 235984
     },
     {
       "url": "clips/kamehameha.mp4",
-      "sha256": "4b8a9784669194b0caac1cfa17589e98877f7931623c6a8433a697f166b81f1d",
-      "bytes": 380907
+      "sha256": "faaa953716fbade4ff430a83a1571be098e0b7ac2de342492d740eae503fbb1e",
+      "bytes": 941071
     },
     {
       "url": "clips/kamehameha.webp",
-      "sha256": "6e6358b69d1f47582364439313fb95cdf9ed6374c114134c770623109ff37cd7",
-      "bytes": 37058
+      "sha256": "a93129ff9fa3f3ec3515d0968a8aa71ac69d77856123404c2d90e63d45ea0d43",
+      "bytes": 231094
+    },
+    {
+      "url": "clips/mafuba-ending.webp",
+      "sha256": "7eedb5dd5ff3437e76b40b5283bc574bbd2fd1833c45bb43099876adeb859b16",
+      "bytes": 195120
     },
     {
       "url": "clips/mafuba.mp4",
-      "sha256": "9ac8553e1656164c975373969e426785b202dceedadd51915c96e60e843aa069",
-      "bytes": 326924
+      "sha256": "74e306accff2c538d4607da4c8beb4d5a7240ed192d9c79f9bb84cab5a30b897",
+      "bytes": 379102
     },
     {
       "url": "clips/mafuba.webp",
-      "sha256": "9c7b8aaae61b169ed20789d701aa3756a84fc2bc16bc452043ad33d923b6d091",
-      "bytes": 41100
+      "sha256": "eaacea7e491cb417736c379527404011b1420c192c212a11a323823b20ddeace",
+      "bytes": 235230
+    },
+    {
+      "url": "clips/oozaru-ending.webp",
+      "sha256": "35697c11b38850d2b167da237890140184309f00584e1e3d3edea26c92e322cf",
+      "bytes": 199580
     },
     {
       "url": "clips/oozaru.mp4",
-      "sha256": "8488bbc02a649e163b5fdd894f8294ced5aa6f28e9c381d88a2ceff70c637def",
-      "bytes": 410654
+      "sha256": "2164a32f9a64ef786545a82200bc86609a79f2c4a1c73ea80cbbc1c5297af93d",
+      "bytes": 439656
     },
     {
       "url": "clips/oozaru.webp",
-      "sha256": "4d444f91d1f8943b912ab6adcf2f9319cdc814d937f0041e3352860bc075755f",
-      "bytes": 39694
+      "sha256": "f52df96454c1b53c829402a7f78518bcc9c6164501c10f68a186fb8ebd579134",
+      "bytes": 196626
+    },
+    {
+      "url": "clips/roshi-full-power-ending.webp",
+      "sha256": "d59337ee25955151923e3a39e482789cae2d325bbe4adfdc864983ec4c36e614",
+      "bytes": 252012
     },
     {
       "url": "clips/roshi-full-power.mp4",
-      "sha256": "9c8ab8af7ac838fe20f135610a7bda4de7344766d1632cf286dc9fa5fd5d401c",
-      "bytes": 430787
+      "sha256": "a27de08acdbaa1747112ca678ccd439a4275ec7050e15c243b0ce944d9d4730c",
+      "bytes": 569901
     },
     {
       "url": "clips/roshi-full-power.webp",
-      "sha256": "42129fde06218b10d522277c3c46822300b3a41319afdafeb8cd6709c15df817",
-      "bytes": 43700
+      "sha256": "0984701d92d63ac060091afaa451d8c0ef80e669f2b71fad1090d440884e192d",
+      "bytes": 251990
+    },
+    {
+      "url": "clips/shenron-ending.webp",
+      "sha256": "159e2eb54faaa12059b7721cd75d5e768f3d433624df1b79b523ac6f3c5119ee",
+      "bytes": 225984
     },
     {
       "url": "clips/shenron.mp4",
-      "sha256": "2ac2870c2353a8874ae5298ce3f6f25cfdca764e7acd26b7454f1bc8d78e0fc6",
-      "bytes": 831557
+      "sha256": "8e53eb9bbe8aa0ea438bdf7ef3b2947fa3e4038bee4a71237d76d7dbbcbc4bd8",
+      "bytes": 738878
     },
     {
       "url": "clips/shenron.webp",
-      "sha256": "019fd035eb2e8f2ba8ce74a982890a48c49cc6f974282f44a4698c7b02a26952",
-      "bytes": 75178
+      "sha256": "cdef19d3e820718dc433f19be44ba5ef774f7052670c68bdff0d07820cfc0787",
+      "bytes": 209840
+    },
+    {
+      "url": "clips/special-beam-cannon-ending.webp",
+      "sha256": "b2e351db72d3c51ff02a725a712a7cce55e28fd6d6e11f6becae3e5cf5234f2d",
+      "bytes": 148656
     },
     {
       "url": "clips/special-beam-cannon.mp4",
-      "sha256": "b74b8eed5614fe4aca209c2c3d5a2a86b83ca895ee176f42ef8f41b23b43babb",
-      "bytes": 490671
+      "sha256": "d4a814e17627636d40d8e7870e8c333b0620e4c1c81572f42182c8366d533623",
+      "bytes": 530705
     },
     {
       "url": "clips/special-beam-cannon.webp",
-      "sha256": "c8c7c48e47a8f1327f7f2aa13d204381d7e6edf1b8b5f100040204e43a25c833",
-      "bytes": 48892
+      "sha256": "8bd44db8cafa4b64a5380b5a9b1e8a3f023f929b931fc4e29469c95ceb3c2212",
+      "bytes": 149384
+    },
+    {
+      "url": "clips/spirit-bomb-ending.webp",
+      "sha256": "196f8a7bebbc78c9bd83ec704f24be3bf7e8be5ee0d58184b9b36e9718259a3b",
+      "bytes": 224054
     },
     {
       "url": "clips/spirit-bomb.mp4",
-      "sha256": "2f8cd70639b028de20a97e171b5d0d00dfab74b6c5fc4476de6c23b6d2799402",
-      "bytes": 434476
+      "sha256": "5b21134bf9dbf07fd798c1416b3ba805d5948ca80533c76fbbbc3fefb82bc65d",
+      "bytes": 799866
     },
     {
       "url": "clips/spirit-bomb.webp",
-      "sha256": "7cd95719a8d869bbe31db9b00cc8badfc1aab47ce7bb35cfd4d3b0c8d3524d41",
-      "bytes": 45624
+      "sha256": "92199d6056070886025b736d2809743649e0b773fe4823362d240911f8563725",
+      "bytes": 211874
+    },
+    {
+      "url": "clips/super-kamehameha-ending.webp",
+      "sha256": "afc0220b27c18be7ac32c9f3b6b17345164ff4d9f2a87c9898de226b58c00cc1",
+      "bytes": 257202
     },
     {
       "url": "clips/super-kamehameha.mp4",
-      "sha256": "1c3c7a08299c31ada3b8acacf659b47d028f65bc2cc1bb50499657da30a7687c",
-      "bytes": 454022
+      "sha256": "035811b9ba86e98ba76aa9ca69ae60d5aa7d50c66e34cb9d2d7ea1ff392e8d3a",
+      "bytes": 843699
     },
     {
       "url": "clips/super-kamehameha.webp",
-      "sha256": "95deca403364d74d6e70e318044982c5b56e87bd1f5d2333aaf840e104af9b09",
-      "bytes": 35576
+      "sha256": "4daa4d090de78a3fdbc7f3a1b9ef7ad688f61728bffbe732fe9ede388bb43a7e",
+      "bytes": 231862
+    },
+    {
+      "url": "fonts/Barlow-Condensed-OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+      "bytes": 4377
+    },
+    {
+      "url": "fonts/barlow-condensed-black-latin.woff2",
+      "sha256": "aa01966de3f608a765a172237a3ffc6161fe4c7e3870b1a904dc6437e54c4e24",
+      "bytes": 21968
     },
     {
       "url": "icons/ascension-v1-180.png",
@@ -994,8 +1179,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "e1709e25f63e40bcbbfba356bc3883c03ba56cb6d49cade48620d9dba37c6b17",
-      "bytes": 962
+      "sha256": "523cfa3cac58807f3d4a0bf5c333c3c1a9c15b4c64da2542fba4e7d066eb24f9",
+      "bytes": 2072
     },
     {
       "url": "manifest.webmanifest",
@@ -1003,5 +1188,5 @@
       "bytes": 668
     }
   ],
-  "bytes": 35086737
+  "bytes": 46779154
 }
